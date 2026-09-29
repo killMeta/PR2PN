@@ -1,0 +1,4 @@
+2026-09-25 15:01:08,680 - Task 3 - delete - SUCCESS
+2026-09-25 15:28:00,987 - Task 1 - delete - SUCCESS
+2026-09-25 16:34:18,459 - Task 1 - FAILED: [WinError 2] Не удается найти указанный файл
+2026-09-25 16:35:15,091 - Task 1 - delete - SUCCESS
